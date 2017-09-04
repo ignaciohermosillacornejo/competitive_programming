@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/p02___Maximum_Sum.dir/main.cpp.o  -o p02___Maximum_Sum 
