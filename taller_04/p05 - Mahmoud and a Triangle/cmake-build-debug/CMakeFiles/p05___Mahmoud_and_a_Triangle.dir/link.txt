@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/p05___Mahmoud_and_a_Triangle.dir/main.cpp.o  -o p05___Mahmoud_and_a_Triangle 

@@ -1,8 +1,9 @@
+// http://codeforces.com/contest/545/problem/D
 #include <bits/stdc++.h>
 
-int array[100000];
+int queue[100001];
 
-int compare (const void * a, const void * b)
+int compare (const void * a, const void * b) // function to compare for qsort, sorts ints in ascending order
 {
     return ( *(int*)a - *(int*)b );
 }
@@ -12,18 +13,32 @@ int main() {
     int n;
     std::cin >> n;
 
-    copy_n(std::istream_iterator<int>(std::cin), n, array);
+    copy_n(std::istream_iterator<int>(std::cin), n, queue);
 
-    qsort(array, n, sizeof(int), compare);
+    qsort(queue, n, sizeof(int), compare);
 
-    int count = 1;
-    int total_time = array[0];
+    int happy_people = 2; // person 1 is always happy
 
+    if (n <= 2) {std::cout << n << "\n"; return 0;} // 1 or 2 people will always be happy
 
-    for (int i = 2; i <= n - 3; i++)
+    // from here on down, we work assuming a queue of 3 or more people
+
+    int total_time = queue[0] + queue[1];
+
+    for (int i = 1; i < n; )
     {
-        if (array[i] + array[i+1] > array[i + 2]) count++;
+        for (int j = i + 1; j <= n; j++)
+        {
+            if (queue[j] >= total_time)
+            {
+                total_time += queue[j];
+                happy_people++;
+                i = j;
+                break;
+            }
+            i = j;
+        }
     }
-    std::cout << n - count << "\n";
+    std::cout << happy_people << "\n";
     return 0;
 }

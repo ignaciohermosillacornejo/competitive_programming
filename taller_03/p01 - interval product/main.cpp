@@ -1,5 +1,5 @@
 // segment tree implementation found on codeforces.com/blog/entry/18051
-#include <bits/stdc++.h>#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 
 const int N = 1e5;  // limit for array size
 int n;  // array size
@@ -18,7 +18,7 @@ void update(int p, int value) // set value at position p
     // we then propagate the value till we are in the second to last layer of the segment tree
     // Note* p^1 is the same as p XOR 1, so we can use it to switch between i (even) and i + 1 (odd) easily
     if (value == 0) t[p += n] = 0;
-    else if (value > 0) t[p += n] =1;
+    else if (value > 0) t[p += n] = 1;
     else t[p += n] = -1;
     for (; p > 1; p >>= 1) t[p>>1] = t[p] * t[p^1];
 }
@@ -43,7 +43,6 @@ int main()
 
     while(std::cin >> n >> K)
     {
-
         std::vector<int> sequence;
         sequence.reserve(n);
         copy_n(std::istream_iterator<int>(std::cin), n, back_inserter(sequence));
@@ -74,5 +73,3 @@ int main()
     }
     return 0;
 }
-
-
