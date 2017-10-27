@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/ignacio/CLionProjects/fenwik/main.cpp
-iostream
--
-vector
+/home/ignacio/dev/taller/taller_04/p01 - At most twice/main.cpp
+bits/stdc++.h
 -
 

@@ -48,10 +48,10 @@ RM = /home/ignacio/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/172.3544.40/bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ignacio/CLionProjects/fenwik
+CMAKE_SOURCE_DIR = "/home/ignacio/dev/taller/taller_04/p01 - At most twice"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ignacio/CLionProjects/fenwik/cmake-build-debug
+CMAKE_BINARY_DIR = "/home/ignacio/dev/taller/taller_04/p01 - At most twice/cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ignacio/CLionProjects/fenwik/cmake-build-debug/CMakeFiles /home/ignacio/CLionProjects/fenwik/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/ignacio/dev/taller/taller_04/p01 - At most twice/cmake-build-debug/CMakeFiles" "/home/ignacio/dev/taller/taller_04/p01 - At most twice/cmake-build-debug/CMakeFiles/progress.marks"
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ignacio/CLionProjects/fenwik/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/ignacio/dev/taller/taller_04/p01 - At most twice/cmake-build-debug/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target

@@ -1,0 +1,3 @@
+/home/ignacio/dev/taller/taller_07/p02 - Domino Art/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ignacio/dev/taller/taller_07/p02 - Domino Art/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ignacio/dev/taller/taller_07/p02 - Domino Art/cmake-build-debug/CMakeFiles/p02___Domino_Art.dir

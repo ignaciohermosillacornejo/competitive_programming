@@ -54,10 +54,10 @@ RM = /home/ignacio/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/172.3544.40/bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ignacio/CLionProjects/fenwik
+CMAKE_SOURCE_DIR = "/home/ignacio/dev/taller/taller_04/p01 - At most twice"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ignacio/CLionProjects/fenwik/cmake-build-debug
+CMAKE_BINARY_DIR = "/home/ignacio/dev/taller/taller_04/p01 - At most twice/cmake-build-debug"
 
 #=============================================================================
 # Target rules for target CMakeFiles/fenwik.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /home/ignacio/CLionProjects/fenwik/cmake-build-debug
 CMakeFiles/fenwik.dir/all:
 	$(MAKE) -f CMakeFiles/fenwik.dir/build.make CMakeFiles/fenwik.dir/depend
 	$(MAKE) -f CMakeFiles/fenwik.dir/build.make CMakeFiles/fenwik.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ignacio/CLionProjects/fenwik/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target fenwik"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/ignacio/dev/taller/taller_04/p01 - At most twice/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target fenwik"
 .PHONY : CMakeFiles/fenwik.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/fenwik.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/fenwik.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ignacio/CLionProjects/fenwik/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/ignacio/dev/taller/taller_04/p01 - At most twice/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/fenwik.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ignacio/CLionProjects/fenwik/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/ignacio/dev/taller/taller_04/p01 - At most twice/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/fenwik.dir/rule
 
 # Convenience name for target.
