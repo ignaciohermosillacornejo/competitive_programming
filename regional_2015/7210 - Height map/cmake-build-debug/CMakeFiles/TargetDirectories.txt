@@ -1,0 +1,3 @@
+/Users/nach/dev/competitive_programming/regional_2015/7210 - Height map/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nach/dev/competitive_programming/regional_2015/7210 - Height map/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nach/dev/competitive_programming/regional_2015/7210 - Height map/cmake-build-debug/CMakeFiles/regional_2015.dir

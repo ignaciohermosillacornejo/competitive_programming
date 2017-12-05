@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE= -D CMAKE_CXX_COMPILER=/usr/local/bin/g++-5 -G "CodeBlocks - Unix Makefiles" /Users/nach/dev/competitive_programming/regional_2015
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/nach/dev/competitive_programming/regional_2015/cmake-build-default

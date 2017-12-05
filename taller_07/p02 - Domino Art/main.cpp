@@ -130,7 +130,7 @@ bool biColor(int r, int c){
         for (auto & direction: directions){
             auto p_node = std::make_pair(c_node.first + direction.first, c_node.second + direction.second);
             // We skip if we run out of the bounds of the table
-            if (p_node.first < 0 or p_node.first > row_size or p_node.second < 0 or p_node.second > row_size) continue;
+            if (p_node.first < 0 or p_node.first > row_size or p_node.second < 0 or p_node.second > col_size) continue;
 
             if (board[p_node.first][p_node.second] == '#') {
                 board[p_node.first][p_node.second] = color[c_color];

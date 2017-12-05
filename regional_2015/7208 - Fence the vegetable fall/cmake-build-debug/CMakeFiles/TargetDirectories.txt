@@ -1,0 +1,3 @@
+/Users/nach/dev/competitive_programming/regional_2015/7208 - Fence the vegetable fall/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nach/dev/competitive_programming/regional_2015/7208 - Fence the vegetable fall/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nach/dev/competitive_programming/regional_2015/7208 - Fence the vegetable fall/cmake-build-debug/CMakeFiles/7208___Fence_the_vegetable_fall.dir
