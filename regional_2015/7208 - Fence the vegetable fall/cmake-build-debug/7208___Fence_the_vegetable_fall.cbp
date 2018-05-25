@@ -44,18 +44,18 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin16.7.0/5.5.0/../../../../../../include/c++/5.5.0"/>
-					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin16.7.0/5.5.0/../../../../../../include/c++/5.5.0/x86_64-apple-darwin16.7.0"/>
-					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin16.7.0/5.5.0/../../../../../../include/c++/5.5.0/backward"/>
-					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin16.7.0/5.5.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin17.0.0/5.5.0/../../../../../../include/c++/5.5.0"/>
+					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin17.0.0/5.5.0/../../../../../../include/c++/5.5.0/x86_64-apple-darwin17.0.0"/>
+					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin17.0.0/5.5.0/../../../../../../include/c++/5.5.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin17.0.0/5.5.0/include"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/include"/>
-					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin16.7.0/5.5.0/include-fixed"/>
+					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin17.0.0/5.5.0/include-fixed"/>
 					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j8 -f &quot;/Users/nach/dev/competitive_programming/regional_2015/7208\ -\ Fence\ the\ vegetable\ fall/cmake-build-debug/Makefile&quot;  VERBOSE=1 7208___Fence_the_vegetable_fall"/>
@@ -71,18 +71,18 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin16.7.0/5.5.0/../../../../../../include/c++/5.5.0"/>
-					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin16.7.0/5.5.0/../../../../../../include/c++/5.5.0/x86_64-apple-darwin16.7.0"/>
-					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin16.7.0/5.5.0/../../../../../../include/c++/5.5.0/backward"/>
-					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin16.7.0/5.5.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin17.0.0/5.5.0/../../../../../../include/c++/5.5.0"/>
+					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin17.0.0/5.5.0/../../../../../../include/c++/5.5.0/x86_64-apple-darwin17.0.0"/>
+					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin17.0.0/5.5.0/../../../../../../include/c++/5.5.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin17.0.0/5.5.0/include"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/include"/>
-					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin16.7.0/5.5.0/include-fixed"/>
+					<Add directory="/usr/local/Cellar/gcc@5/5.5.0/lib/gcc/5/gcc/x86_64-apple-darwin17.0.0/5.5.0/include-fixed"/>
 					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j8 -f &quot;/Users/nach/dev/competitive_programming/regional_2015/7208\ -\ Fence\ the\ vegetable\ fall/cmake-build-debug/Makefile&quot;  VERBOSE=1 7208___Fence_the_vegetable_fall/fast"/>
