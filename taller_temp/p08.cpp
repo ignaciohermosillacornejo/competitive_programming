@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-includ
 
 int max_value = 1000000 + 5;     //  10**6
 long long int tree[1000000 + 5]; // 10**6 + 1 (0 doesn't count)
