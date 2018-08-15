@@ -1,3 +1,3 @@
 # competitive_programming
 
-Don't expect much order or many updates, I'm lazy about this repo
+One day I will get around to ordering this repo, but until then good luck
