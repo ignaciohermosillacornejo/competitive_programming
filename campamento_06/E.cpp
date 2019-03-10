@@ -16,7 +16,7 @@ typedef vector<vi> graph;
 typedef vector<vector<par>> wgraph;
 typedef vector<par> vpar;
 
-vector<int> prefix(string &S)
+vi prefix(string &S)
 {
     vector<int> p(S.size());
     p[0] = 0;
@@ -31,9 +31,10 @@ vector<int> prefix(string &S)
     return p;
 }
 
-int KMP(string &P, string &S, vi &matches)
+vi KMP(string &P, string &S)
 {
     vector<int> pi = prefix(P);
+    vi matches;
     int n = S.length(), m = P.length();
     int j = 0, ans = 0;
     for (int i = 0; i < n; ++i)
@@ -45,12 +46,18 @@ int KMP(string &P, string &S, vi &matches)
 
         if (j == P.length())
         {
-            matches.eb(i - m + 1);
+            /* This is where KMP found a match
+             * we can calculate its position on S by using i - m + 1
+             * or we can simply count it
+             */
+            ans += 1; // count the number of matches 
+            matches.eb(i - m + 1); // store the position of those matches
+            // return; we can return on the first match if needed
+            // this must stay the same
             j = pi[j - 1];
         }
     }
-
-    return ans;
+    return matches; // can be modified to return number of matches or location
 }
 
 int main()
@@ -68,8 +75,7 @@ int main()
         string target, pattern;
         cin >> pattern;
         cin >> target;
-        vi matches;
-        KMP(pattern, target, matches);
+        vi matches = KMP(pattern, target);
         if (matches.size() > 0)
         {
             for (int &i : matches)
