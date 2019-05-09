@@ -1,3 +1,3 @@
-# competitive_programming
+# Competitive Programing
 
-One day I will get around to ordering this repo, but until then good luck
+Personal repository for my competitive programing solutions. Each solution has a link to the original problem, tags and a status (ie: Accepted, WA, TLE, Runetime Error, etc)
