@@ -1,3 +1,0 @@
-/home/ignacio/dev/taller/taller_05/p05 - Two Substrings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ignacio/dev/taller/taller_05/p05 - Two Substrings/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ignacio/dev/taller/taller_05/p05 - Two Substrings/cmake-build-debug/CMakeFiles/p05___Two_Substrings.dir

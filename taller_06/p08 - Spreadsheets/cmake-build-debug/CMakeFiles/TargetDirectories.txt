@@ -1,3 +1,0 @@
-/home/ignacio/dev/taller/taller_06/p08 - Spreadsheets/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ignacio/dev/taller/taller_06/p08 - Spreadsheets/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ignacio/dev/taller/taller_06/p08 - Spreadsheets/cmake-build-debug/CMakeFiles/p08___Spreadsheets.dir

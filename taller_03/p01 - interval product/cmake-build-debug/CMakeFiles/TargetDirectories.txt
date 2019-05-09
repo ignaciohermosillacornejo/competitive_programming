@@ -1,3 +1,0 @@
-/home/ignacio/dev/taller/taller_03/p01 - interval product/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ignacio/dev/taller/taller_03/p01 - interval product/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ignacio/dev/taller/taller_03/p01 - interval product/cmake-build-debug/CMakeFiles/p01___interval_product.dir

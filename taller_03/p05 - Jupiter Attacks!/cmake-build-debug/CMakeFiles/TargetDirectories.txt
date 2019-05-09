@@ -1,3 +1,0 @@
-/home/ignacio/dev/taller/taller_03/p05 - Jupiter Attacks!/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ignacio/dev/taller/taller_03/p05 - Jupiter Attacks!/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ignacio/dev/taller/taller_03/p05 - Jupiter Attacks!/cmake-build-debug/CMakeFiles/p05___Jupiter_Attacks_.dir

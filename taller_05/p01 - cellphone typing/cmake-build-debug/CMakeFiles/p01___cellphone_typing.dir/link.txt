@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/p01___cellphone_typing.dir/main.cpp.o  -o p01___cellphone_typing 

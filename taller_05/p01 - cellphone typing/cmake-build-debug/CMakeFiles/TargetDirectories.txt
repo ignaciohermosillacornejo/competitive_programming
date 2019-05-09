@@ -1,3 +1,0 @@
-/home/ignacio/dev/taller/taller_05/p01 - cellphone typing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ignacio/dev/taller/taller_05/p01 - cellphone typing/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ignacio/dev/taller/taller_05/p01 - cellphone typing/cmake-build-debug/CMakeFiles/p01___cellphone_typing.dir

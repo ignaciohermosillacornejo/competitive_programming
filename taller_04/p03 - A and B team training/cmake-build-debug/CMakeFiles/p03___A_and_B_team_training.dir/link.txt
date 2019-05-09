@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/p03___A_and_B_team_training.dir/main.cpp.o  -o p03___A_and_B_team_training 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/p03___Xenia_and_Bit_Operations.dir/main.cpp.o  -o p03___Xenia_and_Bit_Operations 

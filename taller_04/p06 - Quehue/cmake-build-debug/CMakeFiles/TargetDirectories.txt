@@ -1,3 +1,0 @@
-/home/ignacio/dev/taller/taller_04/p06 - Quehue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ignacio/dev/taller/taller_04/p06 - Quehue/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ignacio/dev/taller/taller_04/p06 - Quehue/cmake-build-debug/CMakeFiles/p06___Quehue.dir

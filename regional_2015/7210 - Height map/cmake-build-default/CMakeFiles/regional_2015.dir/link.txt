@@ -1,1 +1,0 @@
-/usr/local/bin/g++-5   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/regional_2015.dir/main.cpp.o  -o regional_2015 

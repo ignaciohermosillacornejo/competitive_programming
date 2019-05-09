@@ -1,4 +1,0 @@
-/home/ignacio/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/172.3544.40/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/ignacio/dev/taller/taller_05/p05 - passwords"
--- Configuring done
--- Generating done
--- Build files have been written to: /home/ignacio/dev/taller/taller_05/p05 - passwords/cmake-build-debug

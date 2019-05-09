@@ -1,3 +1,0 @@
-/home/ignacio/dev/taller/taller_03/p02 - Maximum Sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ignacio/dev/taller/taller_03/p02 - Maximum Sum/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ignacio/dev/taller/taller_03/p02 - Maximum Sum/cmake-build-debug/CMakeFiles/p02___Maximum_Sum.dir
